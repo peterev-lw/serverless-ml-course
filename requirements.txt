@@ -6,6 +6,7 @@ scikit-learn
 plotly
 Pillow
 seaborn
-dataframe-image
+pandas
+matplotlib
 streamlit_folium
 plotly
